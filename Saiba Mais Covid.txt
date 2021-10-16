@@ -1,0 +1,75 @@
+﻿<html>
+
+<head>
+
+<title>:: Corona Vírus - Notícias::</title>
+
+</head>
+
+<body>
+
+
+<center>
+<h1> Corona Vírus </h1>
+
+<br>
+<h2> Em meio ao caos: Boas Notícias!</h2> </center>
+
+<br>
+<h2> Saiba mais sobre nossas fontes de busca...</h2>
+
+<br>
+<img src="Youtub.jpg" height="30%" width="30%">
+<br>
+
+
+O youtube é  uma das maiores plataformas de videos do mundo. Podemos buscar entre seus canais, conteúdos sobre diversos assuntos.<br>
+Conheça mais sobre o youtube<a href="https://www.youtube.com">clicando aqui</a>
+<br>
+
+<a href="https://www.youtube.com/embed/-L45HjV3LSM">  Cliqur aqui e Assista </a> a reportagem sobre  de "Boas Notícias na Pandemia.
+<br>
+
+
+<a href="https://www.youtube.com/embed/GAdLvvNhlGc">Clique aqui e assista </a> a reportagem sobre empreendorismo.
+<br>
+
+<img src="Spotify.jpg" height="30%" width="30%">
+<br>
+
+O spoitfy é um serviço de stream de audio que permite ao usuário buscas por notícias, músicas de seus artistas preferidos, podcast e muito mais.<br>
+
+<a href="https://www.oensapotify.com"> Clique aqui</a> para conhecer esse serviço.
+
+<a href="https://open.spotify.com/episode/6U8QV8ZJlQ6NSPQYBhpFIv?si=gnQCrgayRnqnK05qQQyahQ&dl_branch=1"> Clique aqui</a> e ouça o podscast com um mix de ótimas noticías.
+
+<br>
+<a href="https://open.spotify.com/episode/7KtHa4rn5dNymeuTQcRPrx?si=2xclagZCTfCrrrhUhMxbWw&dl_branch=1"> Clique aqui </a> e ouça o podcast sobre mulheres emprendedoras na pandemia.
+<br>
+<br>
+<br>
+<br>
+
+<img src="Corona.jpg" height="30%" width="30%"> 
+<br>
+
+Notícias quentinhas sobre a cidade de Botucatu a todo momento.
+<br>
+
+<a href="https://acontecebotucatu.com.br/saude/pelo-segundo-dia-consecutivo-botucatu-nao-registra-caso-positivo-de-covid-19/"> Clique aqui </a> e saiba mais sobre o resultado da vacinação em massa em botucatu.
+<br>
+<br>
+<br>
+<br>
+
+<img src="Esporte.jpg" height="30%" width="30%"> 
+<br>
+
+A b9 TREINO SEMPRE TRAZANDO BONS TREINAMENTOS E INFORMAÇÕES SOBRE ESPORTE.
+<br>
+
+<a href="https://www.b9.com.br/140002/estudo-google-pandemia-interesse-esportes-individuais/"> Clique aqui</a> e leia sobre o crescimento de esportes na pandemia.
+
+ 
+</BODY>
+</html>
