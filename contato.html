@@ -1,80 +1,38 @@
-<html>
+<!doctype html>
+<html lang="pt-br">
 <head>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-   <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
-   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <meta charset="utf-8">
-    
-    <link rel="stylesheet" href="styles.css">
-   
-
-
-<title>:: Corona VÃ­rus - NotÃ­cias::</title>
+<title>:: Corona vírus - Notícias::</title>
 </head>
 <body>
 
-<center>
-    <h1> Corona VÃ­rus </h1>
-    <h2>Em meio ao caos: Boas NotÃ­cias!</h2>
-</center>
+<center><h1> Corona Vírus </h1>
+<h2>Em meio ao caos: Boas Notícias!</h2></center
 
 <a href=index.html> Home </a><b>
 <a href=sobre.html> Sobre</a><b>
 <a href=contato.html> Contato</a><b>
 <a href=saibamais.html> Saiba mais</a><b>
 
-<h2>FormulÃ¡rio</h2>
-<div class="container">
+<h2>Formulário</h2>
+Para maiores informações, você pode enviar um e-mail para noticias@gamaacademy.com.<br>
+Caso queira deixar sujestões, acesse o formulário abaixo.
 <form>
-    <div class="row">
-        <div class="col-25">
-            <label for="name">Digite seu nome</label>
-        </div>
-        <div class="col-75">
-            <input type="text" id="name" name="name">
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-25">
-            <label for="name">E-mail</label>
-        </div>
-        <div class="col-75">
-            <input type="text" name="email" id="email" required="">
-        </div>
-    </div>
-    
-    <div class="row">
-        <div class="col-25">
-            <label for="email">Escolha o perÃ­odo</label>
-        </div>
-        <div class="col-25">
-            <select id="date" name="date">
-                <option selected="selected">Uma vez por semana</option>
-                <option>A cada quinzena</option>
-                <option>Uma vez por mes</option>
-            </select>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-25">
-            <label for="subject">SugestÃ£o</label>
-        </div>
-        <div class="col-75">    
-            <textarea id="subject" name="subject" for="message" placeholder="escreva aqui a sua sugestÃ£o...">
-            </textarea>
-        </div>
-    </div>
-
-<div class="row">
-    <input type="submit" value="Enviar">
-</div>
-
-
-
-
+<br>
+<label for="name">Digite seu nome</label>
+<input type="text" id="name" name="name">
+<label for="name">Digite seu sobrenome</label>
+<input type="text" id="name" name="last name">
+<label for="email">email</label>
+<input type="email" name="email" id="email" required="">
+<label for="date">Escolha o período que deseja receber nossa newsletter</label>
+<select id="date" name="date">
+<option selected="selected">Selecione</option>
+<option>Uma vez por semana</option>
+<option>A cada quinzena</option>
+<option>Uma vez por mes</option>
+Sujestão
+</select><textarea for="message" placeholder="sujestão"></textarea>
+<button type="submit">Enviar</button>
 </form>
-</div>
-
-
-</body></html>
+</body>
+</html>
